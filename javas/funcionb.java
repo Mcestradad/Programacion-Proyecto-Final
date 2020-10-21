@@ -8,12 +8,15 @@ return c;
 
 }
 
-public static int bandera(int a){
+public static void bandera(int a){
 String[] bandera= ConsoleFile.read("recursos/info_banderas.csv");
 if (a==1) {
 	for (int j=0;j<20 ;j++ ) {
-		String[] separador= bandera[j].split(";"); 
-	for (int s=0;s<separador.length;s++ ) {
+
+String[] separador= bandera[j].split(";"); 
+
+	for (int s=0;s<separador.length ;s++ ) {
+
 		switch(separador[s]){
 
 			case "1":
@@ -26,9 +29,11 @@ if (a==1) {
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
 		}
-	System.out.print(ConsoleColors.RESET);
-	System.out.println();
 	}
+
+System.out.print(ConsoleColors.RESET);
+	System.out.println();
+
 }
 }
 
@@ -47,9 +52,10 @@ if (a==2) {
 			System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
 			break;
 		}
+	}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==3) {
@@ -63,10 +69,10 @@ if (a==3) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==4) {
@@ -80,10 +86,10 @@ if (a==4) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==5) {
@@ -97,10 +103,10 @@ if (a==5) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==6) {
@@ -117,10 +123,10 @@ if (a==6) {
 			case "5":
 			System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==7) {
@@ -134,10 +140,10 @@ if (a==7) {
 			case "5":
 			System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==8) {
@@ -154,10 +160,10 @@ if (a==8) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==9) {
@@ -172,10 +178,10 @@ if (a==9) {
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
 		}
-		
+		}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==10) {
@@ -192,11 +198,11 @@ if (a==10) {
 			case "4":
 			System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
 			break;
-		}
+		}}
 		
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==11) {
@@ -213,10 +219,10 @@ if (a==11) {
 			case "8":
 			System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==12) {
@@ -230,10 +236,10 @@ if (a==12) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==13) {
@@ -250,10 +256,10 @@ if (a==13) {
 			case "4":
 			System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==14) {
@@ -270,10 +276,10 @@ if (a==14) {
 			case "8":
 			System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==15) {
@@ -293,10 +299,10 @@ if (a==15) {
 			case "4":
 			System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==16) {
@@ -316,10 +322,10 @@ if (a==16) {
 			case "8":
 			System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==17) {
@@ -339,10 +345,10 @@ if (a==17) {
 			case "5":
 			System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==18) {
@@ -359,10 +365,10 @@ if (a==18) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==19) {
@@ -379,10 +385,10 @@ if (a==19) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==20) {
@@ -396,10 +402,10 @@ if (a==20) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==21) {
@@ -416,10 +422,10 @@ if (a==21) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==22) {
@@ -436,10 +442,10 @@ if (a==22) {
 			case "3":
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==23) {
@@ -456,10 +462,10 @@ if (a==23) {
 			case "5":
 			System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==24) {
@@ -479,10 +485,10 @@ if (a==24) {
 			case "5":
 			System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
 			break;
-		}
+		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
 if (a==25) {
@@ -500,17 +506,16 @@ for (int j=480;j<500 ;j++ ) {
 			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 			break;
 		}
-
+}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
-	}
+	
 }
 }
-return;
 }
 	public static void main(String[] args) {
 
-		bandera(aleatorio(26));
+		bandera(aleatorio(25));
 
 
 
