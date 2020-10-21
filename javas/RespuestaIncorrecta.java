@@ -4,7 +4,7 @@ public class RespuestaIncorrecta{
 
 
 
-	public static void felicitacion(){
+	public static void incorrecto(){
 
 
 		int tipo= (int)((Math.random()*5)+1);
