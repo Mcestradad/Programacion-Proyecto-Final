@@ -23,7 +23,7 @@ if (a==1) {
 
 	switch(contador){
 		case 1:
-			for (int j=0;j<9 ;j++ ) {
+			for (int j=0;j<10 ;j++ ) {
 
 				String[] separador= bandera[j].split(";"); 
 
@@ -4113,7 +4113,7 @@ break;
 
 
 
-		bandera(aleatorio(25));
+		bandera(aleatorio(24));
 
 
 
