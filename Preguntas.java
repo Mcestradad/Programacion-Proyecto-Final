@@ -13,12 +13,9 @@ public class Preguntas{
 
 			String preguntas[][], cadena;
 			
-			preguntas = new String[5][5];
+			preguntas = new String[5][5]; //Crear matriz para preguntas.
 
 
-			/** borrar o comentar luego
-				se debe poner un metodo que envíe como parametro el páis
-			**/
 			String pais;
 			pais=Paises.devolverPais();
 
@@ -40,13 +37,13 @@ public class Preguntas{
 	        	         	 
 	        	 String[] vector=cadena.split(",");
 
-	        	// System.out.println("Cadena: " + cadena);//imprimo la liena del archivo
+	        	// System.out.println("Cadena: " + cadena);//imprimo la linea del archivo
 
-				if(pais.equals(vector[0])){
+				if(pais.equals(vector[0])){ //Si el retorno del pais es igual al nombre en el segundo archivo
 
-					boolean esta= false;
+					boolean esta= false; //Para determinar si un espacio del vector está ocupado.
 	        		
-	        		i=(int)(Math.random()*5);
+	        		i=(int)(Math.random()*5); // Definir posicion aleatoria vacía paras ser llenada.
 
 	        		//System.out.println("i: " + i);//imprimo la i
 
@@ -58,18 +55,18 @@ public class Preguntas{
 
 	        	 			//System.out.println("Cadena: " + cadena);//imprimo la liena del archivo
 
-			        	 	preguntas[i][0]=vector[1];
-							preguntas[i][1]=vector[2];
-							preguntas[i][2]=vector[3];
-							preguntas[i][3]=vector[4];
-							preguntas[i][4]=vector[5];
+			        	 	preguntas[i][0]=vector[1];//El número se asigna a la matriz i,0
+							preguntas[i][1]=vector[2];//La pregunta se asigna a i,1
+							preguntas[i][2]=vector[3];//La respuesta correcta se asigna a i,2
+							preguntas[i][3]=vector[4];//La segunda opción se asigna a i,3
+							preguntas[i][4]=vector[5];//La otra opcion falsa se asigna a i,4
 
 							
 							esta=true;
 							//System.out.println("encontró una posición vacia" + i);//comentar
 	        	 		}
 	        	 		
-	        	 		i=(int)(Math.random()*5);
+	        	 		i=(int)(Math.random()*5); //Asigna posicion aleatoria nuevamente.
 
 	        	 		//System.out.println("i: " + i);//imprimo la i
 	        	 		
@@ -81,7 +78,7 @@ public class Preguntas{
 			System.out.println();
 			System.out.println();
 			
-			for(int m=0; m<5; m++ ){
+			for(int m=0; m<5; m++ ){//Punto de control.
 
 				for(int n=0; n<5; n++){
 						//System.out.print(preguntas[m][n] + " ");
@@ -92,7 +89,7 @@ public class Preguntas{
 
 			//inicia el juego
 
-			//cambio el orden de kas respuestas
+			//cambio el orden de las respuestas
 			String preguntas2[][];
 			preguntas2 = new String[5][5];
 			
@@ -159,9 +156,9 @@ public class Preguntas{
 
 			System.out.println("Score: " + score + "Correct: " + correcta + "Incorrect: " + incorrecta);
 			System.out.println("Pregunta: " + preguntas[i][2]);
-			System.out.println("Opciones: " + preguntas2[m][i]);
+			System.out.print("Opciones: " + preguntas2[][]);
 			Scanner reader= new Scanner(System.in);
-			rta = reader.nextString();
+			rta = reader.nextLine();
 			if(rta.equals(vector[2])){
 				correcta= correcta + 1;
 				score = score + 50;
