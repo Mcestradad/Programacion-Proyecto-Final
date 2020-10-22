@@ -7025,7 +7025,7 @@ for(count=1; count<200;count++){ //Generar números aleatorios en rangos diferen
     				felicitacion();
     				
     				score = score + 50;
-    				limpiar(20);
+    				limpiar(5);
 
 
 
@@ -7034,12 +7034,12 @@ for(count=1; count<200;count++){ //Generar números aleatorios en rangos diferen
     				if (correcta==4) {
 			    		//System.out.println("YOU WIN!!");
 			    		estaEnJuego=false;
-System.out.println(ConsoleColors.GREEN+"     "+"_____.___.________   ____ ___   __      __.___ _______ ._."+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"     "+"\\__  |   |\\_____  \\ |    |   \\ /  \\    /  \\   |\\      \\| |"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"     "+" /   |   | /   |   \\|    |   / \\   \\/\\/   /   |/   |   \\ |"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"     "+" \\____   |/    |    \\    |  /   \\        /|   /    |    \\|"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"     "+" / ______|\\_______  /______/     \\__/\\  / |___\\____|__  /_"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"     "+" \\/               \\/                  \\/              \\/\\/"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+"_____.___.________   ____ ___   __      __.___ _______ ._."+ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+"\\__  |   |\\_____  \\ |    |   \\ /  \\    /  \\   |\\      \\| |"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" /   |   | /   |   \\|    |   / \\   \\/\\/   /   |/   |   \\ |"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" \\____   |/    |    \\    |  /   \\        /|   /    |    \\|"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" / ______|\\_______  /______/     \\__/\\  / |___\\____|__  /_"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" \\/               \\/                  \\/              \\/\\/"+ConsoleColors.RESET);
 		    		}
 
     			}
@@ -7048,7 +7048,7 @@ System.out.println(ConsoleColors.GREEN+"     "+" \\/               \\/          
     				incorrecta= incorrecta + 1;
     				score = score -50;
 
-    				limpiar(20);
+    				limpiar(5);
 
 
     				if (rta.equals("x")){
