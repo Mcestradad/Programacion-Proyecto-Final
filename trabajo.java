@@ -585,14 +585,19 @@ for(count=1; count<200;count++){ //Generar números aleatorios en rangos diferen
     				felicitacion();
     				correcta= correcta + 1;
     				score = score + 50;
-    				limpiar(59);
+    				limpiar(20);
 
     				//código para imprimir la bandera
 
     				if (correcta==4) {
 			    		//System.out.println("YOU WIN!!");
 			    		estaEnJuego=false;
-			    		felicitacion();
+System.out.println(ConsoleColors.GREEN+"      "+"__._.___   __ _   _      _._ ___ ._."+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"      "+"\\__  |   |\\___  \\ |    |   \\ /  \\    /  \\   |\\      \\| |"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"      "+" /   |   | /   |   \\|    |   / \\   \\/\\/   /   |/   |   \\ |"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"      "+" \\__   |/    |    \\    |  /   \\        /|   /    |    \\|"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"      "+" / __|\\___  /__/     \\_/\\  / |_\\_|_  /"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"      "+" \\/               \\/                  \\/              \\/\\/"+ConsoleColors.RESET);
 		    		}
 
     			}
@@ -601,18 +606,28 @@ for(count=1; count<200;count++){ //Generar números aleatorios en rangos diferen
     				incorrecta= incorrecta + 1;
     				score = score -50;
 
-    				limpiar(59);
+    				limpiar(20);
 
 
     				if (rta.equals("x")){
-			    		System.out.println("Saliste del juego.");
+System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"  _________      .__  .__          __               .___     .__         __                             "+ConsoleColors.RESET);
+System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" /   _____/____  |  | |__| _______/  |_  ____     __| _/____ |  |       |__|__ __   ____   ____   ____  "+ConsoleColors.RESET);
+System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" \\_____  \\\\__  \\ |  | |  |/  ___/\\   __\\/ __ \\   / __ |/ __ \\|  |       |  |  |  \\_/ __ \\ / ___\\ /  _ \\ "+ConsoleColors.RESET);
+System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" /        \\/ __ \\|  |_|  |\\___ \\  |  | \\  ___/  / /_/ \\  ___/|  |__     |  |  |  /\\  ___// /_/  >  <_> )"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"/_______  (____  /____/__/____  > |__|  \\___  > \\____ |\\___  >____/ /\\__|  |____/  \\___  >___  / \\____/ "+ConsoleColors.RESET);
+System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"        \\/     \\/             \\/            \\/       \\/    \\/       \\______|           \\/_____/         "+ConsoleColors.RESET);
 			    		estaEnJuego=false;
 
 		    		}
 
 		    		else if(incorrecta==2) {
-			    		System.out.println("Game Over");
-			    		estaEnJuego=false;
+System.out.println(ConsoleColors.RED+"      "+"  ________                                                  "+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED+"      "+" /  _____/_____    _____   ____     _______  __ ___________ "+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED+"      "+"/   \\  ___\\__  \\  /     \\_/ __ \\   /  _ \\  \\/ // __ \\_  __ \\"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED+"      "+"\\    \\_\\  \\/ __ \\|  Y Y  \\  ___/  (  <_> )   /\\  ___/|  | \\/"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED+"      "+" \\______  (____  /__|_|  /\\___  >  \\____/ \\_/  \\___  >__|   "+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED+"      "+"        \\/     \\/      \\/     \\/                   \\/       "+ConsoleColors.RESET); 
+estaEnJuego=false;
 
 
 
