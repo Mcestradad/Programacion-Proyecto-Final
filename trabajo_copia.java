@@ -6855,7 +6855,7 @@ for(count=1; count<200;count++){ //Generar números aleatorios en rangos diferen
 
 			//System.out.println("El pais a buscar es: " + pais);
 
-			FileReader miArchivo = new FileReader("PreguntasPaises.csv"); //Clase que nos permite realizar lecturas de archivos de texto..
+			FileReader miArchivo = new FileReader("PaisesPreguntas.csv"); //Clase que nos permite realizar lecturas de archivos de texto..
 			BufferedReader archivoLeido=new BufferedReader(miArchivo);//Permite leer texto de un InputStream de una forma sencilla. Permite leer caracteres, arrays y líneas.
 					
 
