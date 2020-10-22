@@ -138,44 +138,72 @@ public class Preguntas{
 			}	
 
 
-			System.out.println();
-			System.out.println();
+			//System.out.println();
+			//System.out.println();
 
 			for(int m=0; m<5; m++ ){
 
 				for(int n=0; n<5; n++){
 						//System.out.print(preguntas2[m][n] + " ");
 				}
-				System.out.println();
+				//System.out.println();
 			}	
 
 			String rta="";
 			int correcta=0;
 			int score =0;
 			int incorrecta=0;
-
-			System.out.println("Score: " + score + "        Correct: " + correcta + "        Incorrect: " + incorrecta);
-			System.out.println("Pregunta: " + preguntas[0][1]);
-			for(int m=3; m<5; m++ ){
-
-				for(int n=0; n<5; n++){
-						System.out.print(preguntas2[m][n] + " ");
-				}
-				System.out.println();
-			//System.out.print("Opciones: " + preguntas2[][]);
-			Scanner reader= new Scanner(System.in);
-			rta = reader.nextLine();
 			
-			}	
-			/**if(rta==vector[2]){
-				correcta= correcta + 1;
-				score = score + 50;
-			}
-			else{
-				correcta= correcta + 1;
-				score = score -50;
-			}**/
+			boolean estaEnJuego=false;
+			
 
+			i=0;
+
+
+			while (!estaEnJuego) {
+
+
+			System.out.println();
+			System.out.println("Pregunta: " + preguntas[i][1]);
+			System.out.println();
+
+			
+		//	for(int m=0; m<5; m++ ){
+
+				for(int n=2; n<5; n++){
+
+						System.out.print(preguntas2[i][n] + " ");
+					}
+				
+				System.out.println();
+    			//System.out.print("Opciones: " + preguntas2[][]);
+    			Scanner reader= new Scanner(System.in);
+    			rta = reader.nextLine();
+			    
+    			if(rta.equals(preguntas[i][2])){
+    				
+    				System.out.println("Correcto");
+    				correcta= correcta + 1;
+    				score = score + 50;
+
+
+    			}
+    			else{
+    				System.out.println("Incorrecto");
+    				incorrecta= incorrecta + 1;
+    				score = score -50;
+    			}
+		   //}
+
+				i=i+1;
+
+
+
+		    System.out.println("Score: " + score + "        Correct: " + correcta + "        Incorrect: " + incorrecta);
 
 		}
-}
+    }
+}			
+
+
+
