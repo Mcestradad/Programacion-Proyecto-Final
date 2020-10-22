@@ -27,118 +27,133 @@ for(count=1; count<200;count++){
 	if(num4==1){
 		choto=num1+num2-num3;
 			if(num5==1){
-				System.out.println(num1+" + "+" __ "+"-"+" __ "+"= "+choto);
-				System.out.println("Escribe el primer numero que falta: ");
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"        	 	                    -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println("                     	      	      	   "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"    "+num1+" + "+" __ "+"-"+" __ "+"= "+choto+ConsoleColors.GREEN_BRIGHT+"                 |"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"        	 	                    -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el primer numero que falta: "+ConsoleColors.RESET);
 				resultado1= ConsoleInput.getInt();
-				System.out.println("Escribe el segundo  numero que falta: ");
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el segundo  numero que falta: "+ConsoleColors.RESET);
 				resultado= ConsoleInput.getInt();
 				choto1=num1+resultado1-resultado;
 					if(choto1==choto){
-						System.out.println("Eres el mejor");
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Eres el mejor"+ConsoleColors.RESET);
 					}else{
-						System.out.println("Sigue intentando");
-						System.out.println("Quedaste en el nivel: "+count);
-						System.out.println("El resultado correcto es: ");
-						System.out.println("El numero 1 es: "+num1);
-						System.out.println("El numero 2 es: "+num2);
-						System.out.println("El numero 3 es: "+num3);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Sigue intentando"+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Quedaste en el nivel: "+count+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El resultado correcto es: "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 1 es: "+num1+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 2 es: "+num2+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 3 es: "+num3+ConsoleColors.RESET);
+
 						break;
 					}
 				}
 			if(num5==2){
-				System.out.println("__"+" + "+num2+" - "+"__"+"= "+choto);
-				System.out.println("Escribe el primer numero que falta: ");
+			    System.out.println(ConsoleColors.GREEN_BRIGHT+"          	 	                  -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println("                      	      	          "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"    "+"__"+" + "+num2+" - "+"__"+"= "+choto+ConsoleColors.GREEN_BRIGHT+"                 |"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"         	 	                   -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el primer numero que falta: "+ConsoleColors.RESET);
 				resultado1= ConsoleInput.getInt();
-				System.out.println("Escribe el segundo  numero que falta: ");
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el segundo  numero que falta: "+ConsoleColors.RESET);
 				resultado= ConsoleInput.getInt();
 				choto1=resultado1+num2-resultado;
 					if(choto1==choto){
-						System.out.println("Eres el mejor");
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Eres el mejor"+ConsoleColors.RESET);
 					}else{
-						System.out.println("Sigue intentando");
-						System.out.println("Quedaste en el nivel: "+count);
-						System.out.println("El resultado correcto es: ");
-						System.out.println("El numero 1 es: "+num1);
-						System.out.println("El numero 2 es: "+num2);
-						System.out.println("El numero 3 es: "+num3);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Sigue intentando"+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Quedaste en el nivel: "+count+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El resultado correcto es: "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 1 es: "+num1+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 2 es: "+num2+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 3 es: "+num3+ConsoleColors.RESET);
 						break;
 					}
 				}
 			if(num5==3){
-				System.out.println("__"+" + "+"___"+" - "+num3+"= "+choto);
-				System.out.println("Escribe el primer numero que falta: ");
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"        	   	                  -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println("                    	      	   "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"    "+"__"+" + "+"___"+" - "+num3+"= "+choto+ConsoleColors.GREEN_BRIGHT+"                   |"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"        	  	                   -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el primer numero que falta: "+ConsoleColors.RESET);
 				resultado1= ConsoleInput.getInt();
-				System.out.println("Escribe el segundo  numero que falta: ");
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el segundo  numero que falta: "+ConsoleColors.RESET);
 				resultado= ConsoleInput.getInt();
 				choto1=resultado1+resultado-num3;
 					if(choto1==choto){
-						System.out.println("Eres el mejor");
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Eres el mejor"+ConsoleColors.RESET);
 					}else{
-						System.out.println("Sigue intentando");
-						System.out.println("Quedaste en el nivel: "+count);
-						System.out.println("El resultado correcto es: ");
-						System.out.println("El numero 1 es: "+num1);
-						System.out.println("El numero 2 es: "+num2);
-						System.out.println("El numero 3 es: "+num3);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Sigue intentando"+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Quedaste en el nivel: "+count+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El resultado correcto es: "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 1 es: "+num1+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 2 es: "+num2+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 3 es: "+num3+ConsoleColors.RESET);
 						break;
 					}
 				}
 	}else{
 		choto=num1-num2+num3;
 		if(num5==1){
-				System.out.println(num1+" - "+" __ "+"+"+" __ "+"= "+choto);
-				System.out.println("Escribe el primer numero que falta: ");
+			    System.out.println(ConsoleColors.GREEN_BRIGHT+"          	  	          -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println("                     	      	  "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"    "+num1+" - "+" __ "+"+"+" __ "+"= "+choto+ConsoleColors.GREEN_BRIGHT+"                   |"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"     	       	                  -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el primer numero que falta: "+ConsoleColors.RESET);
 				resultado1= ConsoleInput.getInt();
-				System.out.println("Escribe el segundo  numero que falta: ");
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el segundo  numero que falta: "+ConsoleColors.RESET);
 				resultado= ConsoleInput.getInt();
 				choto1=num1-resultado1+resultado;
 					if(choto1==choto){
-						System.out.println("Eres el mejor");
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Eres el mejor"+ConsoleColors.RESET);
 					}else{
-						System.out.println("Sigue intentando");
-						System.out.println("Quedaste en el nivel: "+count);
-						System.out.println("El resultado correcto es: ");
-						System.out.println("El numero 1 es: "+num1);
-						System.out.println("El numero 2 es: "+num2);
-						System.out.println("El numero 3 es: "+num3);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Sigue intentando"+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Quedaste en el nivel: "+count+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El resultado correcto es: "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 1 es: "+num1+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 2 es: "+num2+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 3 es: "+num3+ConsoleColors.RESET);
 						break;
 					}
 				}
 			if(num5==2){
-				System.out.println("__"+" - "+num2+" + "+"__"+"= "+choto);
-				System.out.println("Escribe el primer numero que falta: ");
+
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"      		      	                 -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println("                   	  	      	 "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"    "+"__"+" - "+num2+" + "+"__"+"= "+choto+ConsoleColors.GREEN_BRIGHT+"                     |"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                 	 	         -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el primer numero que falta: "+ConsoleColors.RESET);
 				resultado1= ConsoleInput.getInt();
-				System.out.println("Escribe el segundo  numero que falta: ");
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el segundo  numero que falta: "+ConsoleColors.RESET);
 				resultado= ConsoleInput.getInt();
 				choto1=resultado1-num2+resultado;
 					if(choto1==choto){
-						System.out.println("Eres el mejor");
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Eres el mejor"+ConsoleColors.RESET);
 					}else{
-						System.out.println("Sigue intentando");
-						System.out.println("Quedaste en el nivel: "+count);
-						System.out.println("El resultado correcto es: ");
-						System.out.println("El numero 1 es: "+num1);
-						System.out.println("El numero 2 es: "+num2);
-						System.out.println("El numero 3 es: "+num3);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Sigue intentando"+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Quedaste en el nivel: "+count+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El resultado correcto es: "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 1 es: "+num1+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 2 es: "+num2+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 3 es: "+num3+ConsoleColors.RESET);
 						break;
 					}
 				}
 			if(num5==3){
-				System.out.println("__"+" - "+"___"+" + "+num3+"= "+choto);
-				System.out.println("Escribe el primer numero que falta: ");
+
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"             	               	         -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println("                            	  	  "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"    "+"__"+" - "+"___"+" + "+num3+"= "+choto+ConsoleColors.GREEN_BRIGHT+"                   |"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"           	      	                 -----------------------------------------"+ConsoleColors.RESET);
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el primer numero que falta: "+ConsoleColors.RESET);
 				resultado1= ConsoleInput.getInt();
-				System.out.println("Escribe el segundo  numero que falta: ");
+				System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Escribe el segundo  numero que falta: "+ConsoleColors.RESET);
 				resultado= ConsoleInput.getInt();
 				choto1=resultado1-resultado+num3;
 					if(choto1==choto){
-						System.out.println("Eres el mejor");
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Eres el mejor"+ConsoleColors.RESET);
 					}else{
-						System.out.println("Sigue intentando");
-						System.out.println("Quedaste en el nivel: "+count);
-						System.out.println("El resultado correcto es: ");
-						System.out.println("El numero 1 es: "+num1);
-						System.out.println("El numero 2 es: "+num2);
-						System.out.println("El numero 3 es: "+num3);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Sigue intentando"+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"Quedaste en el nivel: "+count+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El resultado correcto es: "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 1 es: "+num1+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 2 es: "+num2+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 3 es: "+num3+ConsoleColors.RESET);
 						break;
 					}
 				}
@@ -371,7 +386,8 @@ for(count=1; count<200;count++){
     				System.out.println("Correcto");
     				correcta= correcta + 1;
     				score = score + 50;
-    				limpiar(59);
+    				limpiar(8);
+
     				//código para imprimir la bandera
 
     				if (correcta==4) {
@@ -385,7 +401,9 @@ for(count=1; count<200;count++){
     				System.out.println("Incorrecto");
     				incorrecta= incorrecta + 1;
     				score = score -50;
-    				limpiar(59);
+
+    				limpiar(8);
+
 
     				if (incorrecta==2) {
 			    		System.out.println("Game Over");
@@ -422,6 +440,9 @@ public static void main(String args[]) throws IOException{
  int decision=0;
  int bucle=1;
  int decision2=0;
+
+ int decision3=0;
+
 
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                                       "+ConsoleColors.PURPLE_BRIGHT+"            ___________						   "+ConsoleColors.RESET+"                        "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                                       "+ConsoleColors.PURPLE_BRIGHT+"           / |       | |						  "+ConsoleColors.RESET+"                         "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
@@ -469,10 +490,10 @@ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+"                        
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+"                              | '--------------' || '--------------' || '--------------' || '--------------' |                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+"                               '----------------'  '----------------'  '----------------'  '----------------'                        "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                                                                                                                                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              | 1. minijuego                                                                 |                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              | 2. Ander papichulo                                                           |                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              | 3. Juego banderas                                                            |                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              | 4. salir del menu                                                            |                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 1. minijuego                                                                 "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 2. Ander papichulo                                                           "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 3. Juego banderas                                                            "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 4. salir del menu                                                            "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"      "+ConsoleColors.PURPLE_BRIGHT+"________                        .___                                       __                                 _________        "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"      "+ConsoleColors.PURPLE_BRIGHT+"\\_____  \\   __ __   ____      __| _/  ____    ______  ____  _____         |__| __ __    ____  _____   _______ \\_____   \\       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"      "+ConsoleColors.PURPLE_BRIGHT+" /  / \\  \\ |  |  \\_/ __ \\    / __ | _/ __ \\  /  ___/_/ __ \\ \\__  \\        |  ||  |  \\  / ___\\ \\__  \\  \\_  __ \\   /   __/       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
@@ -486,15 +507,48 @@ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"    
  case 1:
  System.out.println();
  limpiar(56);
- System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"          .__         .__      __                                "+ConsoleColors.GREEN_BRIGHT+""); 
- System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"  _____  |__|  ____  |__|    |__| __ __   ____     ____    ____  "+ConsoleColors.GREEN_BRIGHT+"");
- System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+" /     \\ |  | /    \\ |  |    |  ||  |  \\_/ __ \\   / ___\\  /  _ \\ "+ConsoleColors.GREEN_BRIGHT+"");
- System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"|  Y Y  \\|  ||   |  \\|  |    |  ||  |  /\\  ___/  / /_/  >(  <_> )"+ConsoleColors.GREEN_BRIGHT+"");
- System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"|__|_|  /|__||___|  /|__|/\\__|  ||____/  \\___  > \\___  /  \\____/ "+ConsoleColors.GREEN_BRIGHT+"");
- System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"      \\/          \\/     \\______|            \\/ /_____/          "+ConsoleColors.GREEN_BRIGHT+"");
- limpiar(8);
- miniJuego();
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88888888888888888888888888888888888888888888888888888888888888888888888                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88.._|      | `-.  | `.  -_-_ _-_  _-  _- -_ -  .'|   |.'|     |  _..88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88   `-.._  |    |`!  |`.  -_ -__ -_ _- _-_-  .'  |.;'   |   _.!-'|  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88      | `-!._  |  `;!  ;. _______________ ,'| .-' |   _!.i'     |  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88..__  |     |`-!._ | `.| |_______________||.\"'|  _!.;'   |     _|..88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88   |``\"..__ |    |`\";.| i|_|MMMMMMMMMMM|_|'| _!-|   |   _|..-|'    88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88   |      |``--..|_ | `;!|l|MMoMMMMoMMM|1|.'j   |_..!-'|     |     88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88   |      |    |   |`-,!_|_|MMMMP'YMMMM|_||.!-;'  |    |     |     88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88___|______|____!.,.!,.!,!|d|MMMo * loMM|p|,!,.!.,.!..__|_____|_____88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88      |     |    |  |  | |_|MMMMb,dMMMM|_|| |   |   |    |      |  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88      |     |    |..!-;'i|r|MPYMoMMMMoM|r| |`-..|   |    |      |  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88      |    _!.-j'  | _!,\"|_|M<>MMMMoMMM|_||!._|  `i-!.._ |      |  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88     _!.-'|    | _.\"|  !;|1|MbdMMoMMMMM|l|`.| `-._|    |``-.._  |  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88..-i'     |  _.''|  !-| !|_|MMMoMMMMoMM|_|.|`-. | ``._ |     |``\"..88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88   |      |.|    |.|  !| |u|MoMMMMoMMMM|n||`. |`!   | `\".    |     88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88   |  _.-'  |  .'  |.' |/|_|MMMMoMMMMoM|_|! |`!  `,.|    |-._|     88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88  _!\"'|     !.'|  .'| .'|[@]MMMMMMMMMMM[@] \\|  `. | `._  |   `-._  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88-'    |   .'   |.|  |/| /                 \\|`.  |`!    |.|      |`-88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88      |_.'|   .' | .' |/                   \\  \\ |  `.  | `._-Lee|  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88     .'   | .'   |/|  /                     \\ |`!   |`.|    `.  |  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88  _.'     !'|   .' | /                       \\|  `  |  `.    |`.|  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            8888888888888888888888888888888888888888888888888888888888888888(FL)888                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
  
+  System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"			  ----------------------------------------------------------------------------------------	      "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+  System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                    "+ConsoleColors.PURPLE_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.GREEN_BRIGHT+"               .__         .__      __                                                "+ConsoleColors.PURPLE_BRIGHT+"|"+"            "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET); 
+ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                    "+ConsoleColors.PURPLE_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.GREEN_BRIGHT+"       _____  |__|  ____  |__|    |__| __ __   ____     ____    ____                  "+ConsoleColors.PURPLE_BRIGHT+"|"+"            "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                    "+ConsoleColors.PURPLE_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.GREEN_BRIGHT+"      /     \\ |  | /    \\ |  |    |  ||  |  \\_/ __ \\   / ___\\  /  _ \\                 "+ConsoleColors.PURPLE_BRIGHT+"|"+"            "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                    "+ConsoleColors.PURPLE_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.GREEN_BRIGHT+"     |  Y Y  \\|  ||   |  \\|  |    |  ||  |  /\\  ___/  / /_/  >(  <_> )                "+ConsoleColors.PURPLE_BRIGHT+"|"+"            "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                    "+ConsoleColors.PURPLE_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.GREEN_BRIGHT+"     |__|_|  /|__||___|  /|__|/\\__|  ||____/  \\___  > \\___  /  \\____/                 "+ConsoleColors.PURPLE_BRIGHT+"|"+"            "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                    "+ConsoleColors.PURPLE_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.GREEN_BRIGHT+"           \\/          \\/     \\______|            \\/ /_____/                          "+ConsoleColors.PURPLE_BRIGHT+"|"+"            "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"			  ----------------------------------------------------------------------------------------	      "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+ System.out.println(ConsoleColors.GREEN_BRIGHT+"			          ¿Que te parece si comenzamos?, 0 para \"si\", 1 para \"no\""+ConsoleColors.RESET);
+decision3=ConsoleInput.getInt();
+switch(decision3){
+ case 0:
+limpiar(2);
+miniJuego();
+break;
+case 1:
+bucle=0;
+break;
+} 
  break;
  
  case 2: 
@@ -504,15 +558,18 @@ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"    
  break;	
  case 3: 
  limpiar(56);
-System.out.println("   _____                       .__  __  .__         _____.__                       "); 
-System.out.println("_/ ____\\_ __  ____    __  _  _|__|/  |_|  |__    _/ ____\\  | _____     ____  ______");
-System.out.println("\\   __\\  |  \\/    \\   \\ \\/ \\/ /  \\   __\\  |  \\   \\   __\\|  | \\__  \\   / ___\\/  ___/");
-System.out.println(" |  | |  |  /   |  \\   \\     /|  ||  | |   Y  \\   |  |  |  |__/ __ \\_/ /_/  >___ \\ ");
-System.out.println(" |__| |____/|___|  /    \\/\\_/ |__||__| |___|  /   |__|  |____(____  /\\___  /____  >");
-System.out.println("                 \\/                         \\/                    \\//_____/     \\/"); 
-System.out.println("Este maravilloso y entretenido juego consiste en llevar acabo una serie de preguntas \n estas preguntas apareceran en pantalla junto con unas opciones, debes elegir la respuesta que te parezca correcta \n así se irá llenando la bandera poco a poco e iras acumulando puntos \n si fallas disminuiran tus puntos y la bandera irá desapareciendo. ");
-
-System.out.println("¿Comenzar?, presiona 0 para \"Si\" o 1 para \"No\" ");
+System.out.println(ConsoleColors.RED_BRIGHT+"                        _____                       .__  __  .__         _____.__                       "+ConsoleColors.RESET); 
+System.out.println(ConsoleColors.RED_BRIGHT+"                     _/ ____\\_ __  ____    __  _  _|__|/  |_|  |__    _/ ____\\  | _____     ____  ______"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED_BRIGHT+"                     \\   __\\  |  \\/    \\   \\ \\/ \\/ /  \\   __\\  |  \\   \\   __\\|  | \\__  \\   / ___\\/  ___/"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED_BRIGHT+"                      |  | |  |  /   |  \\   \\     /|  ||  | |   Y  \\   |  |  |  |__/ __ \\_/ /_/  >___ \\ "+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED_BRIGHT+"                      |__| |____/|___|  /    \\/\\_/ |__||__| |___|  /   |__|  |____(____  /\\___  /____  >"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED_BRIGHT+"                                      \\/                         \\/                    \\//_____/     \\/"+ConsoleColors.RESET); 
+System.out.println(ConsoleColors.RED_BRIGHT+"          ---------------------------------------------------------------------------------------------------------------------");
+System.out.println("          "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET+" Descripción:                                                                                                      "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET);
+System.out.println("          "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET+" Este maravilloso y entretenido juego consiste en llevar acabo una serie de preguntas, estas preguntas apareceran  "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET+" \n          "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET+" en pantalla junto con unas opciones, debes elegir la respuesta que te parezca correcta, así se irá llenando la    "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET+" \n          "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET+" bandera poco a poco e iras acumulando puntos.                                                                     "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET+" \n          "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET+" psdt: si fallas disminuiran tus puntos y la bandera dejará de llenarse.                                           "+ConsoleColors.RED_BRIGHT+"|"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.RED_BRIGHT+"          ---------------------------------------------------------------------------------------------------------------------");
+System.out.println("                                      ¿Comenzar?, presiona 0 para \"Si\" o 1 para \"No\" ");
+limpiar(12);
  decision2= ConsoleInput.getInt();
 switch(decision2){
 
@@ -552,7 +609,8 @@ case 1:
  
  }
  System.out.println();
- System.out.println("¿Otra opcion?, digita 0 para \"Si\" o digita 1 para \"No\" ");
+ System.out.println(ConsoleColors.PURPLE_BRIGHT+"¿Otra opcion?, digita 0 para \"Si\" o digita 1 para \"No\" "+ConsoleColors.RESET);
+
  bucle=ConsoleInput.getInt();
  switch(bucle){
  	case 0:
