@@ -58,7 +58,7 @@ return c;
 
 	}*/
 
-	public static String[] devolverPosicion() throws IOException{
+	public static String[] devolverPosicion() throws IOException{ //Determina posicion y nombre del pais.
 		int numPais;
 		 
 		
@@ -108,7 +108,7 @@ return c;
 
 
 
-	public static void felicitacion(){
+	public static void felicitacion(){ //Función con diferentes códigos ascii para 
 
 
 		int tipo= (int)((Math.random()*10)+1);
@@ -7034,12 +7034,12 @@ for(count=1; count<200;count++){ //Generar números aleatorios en rangos diferen
     				if (correcta==4) {
 			    		//System.out.println("YOU WIN!!");
 			    		estaEnJuego=false;
-System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+"_____.___.________   ____ ___   __      __.___ _______ ._."+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+"\\__  |   |\\_____  \\ |    |   \\ /  \\    /  \\   |\\      \\| |"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" /   |   | /   |   \\|    |   / \\   \\/\\/   /   |/   |   \\ |"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" \\____   |/    |    \\    |  /   \\        /|   /    |    \\|"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" / ______|\\_______  /______/     \\__/\\  / |___\\____|__  /_"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" \\/               \\/                  \\/              \\/\\/"+ConsoleColors.RESET);
+ 						System.out.println(ConsoleColors.CYAN+"      "+"__._.___   __ _   _      _._ ___ ._."+ConsoleColors.RESET);
+ 						System.out.println(ConsoleColors.CYAN+"      "+"\\__  |   |\\___  \\ |    |   \\ /  \\    /  \\   |\\      \\| |"+ConsoleColors.RESET);
+ 						System.out.println(ConsoleColors.CYAN+"      "+" /   |   | /   |   \\|    |   / \\   \\/\\/   /   |/   |   \\ |"+ConsoleColors.RESET);
+ 						System.out.println(ConsoleColors.CYAN+"      "+" \\__   |/    |    \\    |  /   \\        /|   /    |    \\|"+ConsoleColors.RESET);
+ 						System.out.println(ConsoleColors.CYAN+"      "+" / __|\\___  /__/     \\_/\\  / |_\\_|_  /"+ConsoleColors.RESET);
+ 						System.out.println(ConsoleColors.CYAN+"      "+" \\/               \\/                  \\/              \\/\\/"+ConsoleColors.RESET);
 		    		}
 
     			}
@@ -7052,12 +7052,12 @@ System.out.println(ConsoleColors.CYAN_BRIGHT+"     "+" \\/               \\/    
 
 
     				if (rta.equals("x")){
-System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"  _________      .__  .__          __               .___     .__         __                             "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" /   _____/____  |  | |__| _______/  |_  ____     __| _/____ |  |       |__|__ __   ____   ____   ____  "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" \\_____  \\\\__  \\ |  | |  |/  ___/\\   __\\/ __ \\   / __ |/ __ \\|  |       |  |  |  \\_/ __ \\ / ___\\ /  _ \\ "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" /        \\/ __ \\|  |_|  |\\___ \\  |  | \\  ___/  / /_/ \\  ___/|  |__     |  |  |  /\\  ___// /_/  >  <_> )"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"/_______  (____  /____/__/____  > |__|  \\___  > \\____ |\\___  >____/ /\\__|  |____/  \\___  >___  / \\____/ "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"        \\/     \\/             \\/            \\/       \\/    \\/       \\______|           \\/_____/         "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"  _________      .__  .__          __               .___     .__         __                             "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" /   _____/____  |  | |__| _______/  |_  ____     __| _/____ |  |       |__|__ __   ____   ____   ____  "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" \\_____  \\\\__  \\ |  | |  |/  ___/\\   __\\/ __ \\   / __ |/ __ \\|  |       |  |  |  \\_/ __ \\ / ___\\ /  _ \\ "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+" /        \\/ __ \\|  |_|  |\\___ \\  |  | \\  ___/  / /_/ \\  ___/|  |__     |  |  |  /\\  ___// /_/  >  <_> )"+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"/_______  (____  /____/__/____  > |__|  \\___  > \\____ |\\___  >____/ /\\__|  |____/  \\___  >___  / \\____/ "+ConsoleColors.RESET);
+						System.out.println(ConsoleColors.PURPLE_BRIGHT+"       "+"        \\/     \\/             \\/            \\/       \\/    \\/       \\______|           \\/_____/         "+ConsoleColors.RESET);
 			    		estaEnJuego=false;
 
 		    		}
@@ -7146,10 +7146,10 @@ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+"                        
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+"                              | '--------------' || '--------------' || '--------------' || '--------------' |                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+"                               '----------------'  '----------------'  '----------------'  '----------------'                        "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                                                                                                                                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 1. minijuego                                                                 "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 2. Ander papichulo                                                           "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 1. Presentacion                                                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 2. MiniJuego                                                           "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 3. Juego banderas                                                            "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 4. salir del menu                                                            "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                              "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+" 4. Salir del menu                                                            "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"                       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"      "+ConsoleColors.PURPLE_BRIGHT+"________                        .___                                       __                                 _________        "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"      "+ConsoleColors.PURPLE_BRIGHT+"\\_____  \\   __ __   ____      __| _/  ____    ______  ____  _____         |__| __ __    ____  _____   _______ \\_____   \\       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"      "+ConsoleColors.PURPLE_BRIGHT+" /  / \\  \\ |  |  \\_/ __ \\    / __ | _/ __ \\  /  ___/_/ __ \\ \\__  \\        |  ||  |  \\  / ___\\ \\__  \\  \\_  __ \\   /   __/       "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
@@ -7159,8 +7159,72 @@ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"    
  decision= ConsoleInput.getInt();
  
  switch(decision){
+
+ 	case 1: 
+ System.out.println();
+ System.out.println("Proyecto Final Logica de Programacion \n  POR: Luisa Alvarez Bello\n       Andersson Cardenas Quiros\n       Maria Clara Estrada Duque");
+ System.out.println();
+ System.out.println("Profesor:");
+  System.out.println();
+System.out.println(ConsoleColors.CYAN +""+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNXXXXXXXXNNWMWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNK0Oxdoollccc::;;;;,,,,;;;:cllodxO0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKc'''...............................'xWMWMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXl.','....................'.........,0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK:.'''............................'xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk,.'''...................''......dWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo.'''..........................lNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0;.'''....................'...;KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd.''............''..........'kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMX:.'................'.......oNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO;.'..................';:,,c0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWd'''..........,;:c;..;llcc;,kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMM0;...........;lllll:;clc:;,:kWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMWWMWWMMMWWWXdclllcc::l;..';;;;clllclc::::kWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMNxlcoONWMMWWW0lxd,'....oo.....':ccl:,:clc::OWMMMMWWMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMWx....':ldxO0KOldc. .. .:d'   .':::c, 'ooodOKK0kdlccxNMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMWWKxl:,'....'',,','....  ,l.  .  ..... 'llcc:,'......;KMMWMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMWWWNX0kdlc,.....................................':lkNMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWxlkOxdoll:;;,,,,,,,,''''',;;..'coooodxOXWMMWWMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMWxxWWWMWWXdlodOXXXKKKK0OOKXNNd';lodollcllod0NWMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMWWWMWMMWWWMMMWN0lcKWWMWWXkxdxXWMMMMWXx:c0WWWO:;;codxxdddoc;oXWMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMWNNWMMWWMWWNkocc:l0WWWWWWWNkOWMMWMWXxloKWWNd;odxdl:coddxdo;oXMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMWklodkXNNX0klcoxxdlcdkKNWWWXxckNWWMWWWNWWWXd:lddxxd::dddxxdc;kMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMWd;ddllooolcodxxxxxdl:clooolc:cok0KXNNXKOxlcodddxxxccddxxxxl,dWMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMKc:dxxxxxxxxddddodxxxdddoodddxdlllloolccloddxdddxo:lxxxdxdl;kMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMWKl:oxxxxddxdxxolodxxdoodxxdxxxxxxxdddddxddxxddxdlcdxxxxxd:cKMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMWWMNkccodxdxxdxxddxxxxdcldxdxxxdxxxxxxdddxxxddxxolldxdxxddc:kWMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMWMNo;cldxxdxxxddxxxxddxxxxxxxxdddxxxdxxxxxxdlcodxxdxxdc:xWWMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMKlcllllodxxxxxxxddxxxxxxxxxdddddxxxxxdollldxxdxddoccOWMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMNdlxddolllllloodddddddxxxddddddoooloollddxddxxddoc:OWWMMMMMMMMMMMMMWWWWMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMWOldxxdddddollllllllllllllllllllloodddxxxddxxdxddo:dNMWWNKOkxdooddxOKNWMWMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMWXOkxddddddxk0XWW0ldxddxddxxddxxxxxdxxdddddddxxdxxxxddxxddxxddxdxdl:dOxdocccclooooolloxXWWMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMNOdllloodooolccclodlldxdxxxdxxxxo:::cldxxxxxxddddolccoxxxxdxxxxxxxxxdc,;cloooodddxxxdxxdlcxNMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"WWMXdcoxxxxxxxdddooool:,lxdddddxxxdxdl::::coddddxxdl:::,;dxxdxxxxxxxxxxxdo;:ooooddddxxxxxxxxxo:dNMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"WWKlcddxxxddxxxxxxdddo:cddxxddxxddxxxdc:ll:::;:cc:;;:cc;;oxxxxddxxxxxxxxdd:;lddxxxxxxxxxxxdxxxl;xMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMx;dxdxxxxxxxxxxddxxo:oxxxxxddxxxxxxo::lc:,'.:l;..';:cc:;oxxxxxdxxxxxxxxdc;oxddxxxxxxxddxddxxl;OMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MW0clxxdxxxxxxxddxxxxocoxxxxxdxxxxxxdc:llc:'.,::,'',:ccl:;oxxxxxxxxxxxxxddc:oxdddxxxxxxxxxxxxocxNMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MWW0loxxxxxxxxxxxxddolcdxxxxxdxxxxdxd::lc:,;codddl:::;,,,cdxxxxxxxxxxxxxddc;llodxxxxxxxxdddxdlkNMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMWWKoldxxxxxxxxddddoc:oxxxxxdxxxxddxl,;:cok000KKK000klcoxdxxdxxdxxxxxxxdo;;odxxxxxxxxxxdxxllONWMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMWMXkooxxxxxddxdddxdloxxxxxdxxdxxdxkkOKXNNNNNNNNNNNNNXXK0Okxxxxxxxdxxxdc:oxxxdxxxddxdxdoldKMMWMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMWKkoodxxdxxdxxddllxxxdxxxxxdxk0XNNNNNNNNNNNNNNNNNNNNNXK0kxxxxxxxxdl:lxxxddxxxddxdookKNWWMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMWXOxoodxxxxdxxoldxddxdxdxkKXNNNNNNNNNNNNNNNNNNNNNNNNNNX0kxdddddo::dxxxdxxxxdooxOXWWWMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMWWWKOxooddxxxdlldddxdxxOXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKkdxddo::oxxdxxxdoodkXWWWMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMWX0kdoooddloxdxxx0XNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKOdoo::oxxdolloxOXWWWMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"WWMNKKKK00K000KKXXXKOkxdl:ldxxOXNNNX0KNNNNNNNNNNNNNNNNKkOXNNNNNNNNKxc:clolodxkOKK00OOOkkxddddxxk0XWM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"WXxcc:cc:::cccloodddxxxxdl:cdkKNNNXkcxXNNNNNNNNNNNNNNN0llONNNNNNNNOl,,:cloxkxxdoolllllcc::;;:ccc,cKW"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"WO;;llcllloooodxxxxxxddddoolldOXNNKdlkNNNNNNNNNNNNXNNNKdlxXNNNX0ko::::loooddxxxxxxxxxddooooolccc;c0W"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"WNkdc;coodddxxxxxxxxxxxxxxxxxddk0OolookO000KKKKKKKKK0Oxoodxkkko;,:oxxxdddooooddxxxxxxxxxxdxxdocoOXWM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMWX00KKXXNNNNNNNNNNNNNNX0kkxOOxlloxlcokkO0XXK0kxkxdlcoool:clllolo0NNNXXXXXXXXNNNWWWWWWWWWWWNNWMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMWKlldlclxocldkxlclodOWWOcodo:oOOOo:okdddoddKMWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMWNOkkxkxxdcl0WW0olockWMNOxxxxKWWKoodolkNXXNWMMMMMMMMM                   MMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdlodldXMMNOk0NMMMMWWWWWWMXxdddd0WMMWMMMMMMMMMM      @XACARANA    MMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0Okk0WMMMMMMMMMMMMMMMMMMMWNXNWMMMMMMMMMMMMMMM                   MMMM"+ ConsoleColors.RESET);
+System.out.println(ConsoleColors.CYAN +"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"+ ConsoleColors.RESET);
+
+ break;	
  
- case 1:
+ case 2:
  System.out.println();
  limpiar(56);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88888888888888888888888888888888888888888888888888888888888888888888888                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
@@ -7207,11 +7271,7 @@ break;
 } 
  break;
  
- case 2: 
- System.out.println();
- System.out.println("Ander eres un severo papucho");
- 
- break;	
+
  case 3: 
  limpiar(56);
 System.out.println(ConsoleColors.RED_BRIGHT+"                        _____                       .__  __  .__         _____.__                       "+ConsoleColors.RESET); 
@@ -7231,45 +7291,13 @@ switch(decision2){
 
 case 0:
  limpiar(56);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                            _-o#&&*''''?d:>b\\_              "+ConsoleColors.RESET);     
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                        _o/\"`         dMF9MMMMMHo_          "+ConsoleColors.RESET); 
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                     .o&#'         \"MbHMMMMMMMMMMMHo.       "+ConsoleColors.RESET);  
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                   .o\"\"           vodM*$&&HMMMMMMMMMM?.     "+ConsoleColors.RESET);    
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                  ,'              $M&ood,~'`(&##MMMMMMH\\    "+ConsoleColors.RESET);    
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                 /               ,MMMMMMM#b?#bobMMMMHMMML   "+ConsoleColors.RESET);   
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk  "+ConsoleColors.RESET);     
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                               ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L "+ConsoleColors.RESET);    
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                              |               |MMMMMMMMMMMMMMMMMMMMbMH'   T,"+ConsoleColors.RESET);       
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                              $H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?"+ConsoleColors.RESET);     
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                              ]MMH#             \"\"*\"\"\"\"*#MMMMMMMMMMMMM'    -"+ConsoleColors.RESET);     
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                              MMMMMb_                   |MMMMMMMMMMMP'     :"+ConsoleColors.RESET); 
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                              HMMMMMMMHo                 `MMMMMMMMMT       ."+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                              ?MMMMMMMMP                  9MMMMMMMM}       -"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                              -?MMMMMMM                  |MMMMMMMMM?,d-    '"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                               :|MMMMMM-                 `MMMMMMMT .M|.   : "+ConsoleColors.RESET);   
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                .9MMM[                    &MMMMM*' `'    .  "+ConsoleColors.RESET);    
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                 :9MMk                    `MMM#\"        -   "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                   &M}                     `          .-    "+ConsoleColors.RESET);   
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                    `&.                             .       "+ConsoleColors.RESET);     
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                      `~,                         ./        "+ConsoleColors.RESET);     
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                          . _                  .-           "+ConsoleColors.RESET);      
-System.out.println(ConsoleColors.CYAN_BRIGHT+"                                                            '`--._,dd###pp=\"\"'              "+ConsoleColors.RESET);
-System.out.println();
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          ************************************************************************************************************          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          ************************************************************************************************************          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          ************************************************************************************************************          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          ************************************************************************************************************          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          *****"+"        _____                       .__  __  .__         _____.__                                 "+ConsoleColors.GREEN_BRIGHT+"*****          "+ConsoleColors.RESET); 
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          *****"+"     _/ ____\\_ __  ____    __  _  _|__|/  |_|  |__    _/ ____\\  | _____     ____  ______          "+ConsoleColors.GREEN_BRIGHT+"*****          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          *****"+"     \\   __\\  |  \\/    \\   \\ \\/ \\/ /  \\   __\\  |  \\   \\   __\\|  | \\__  \\   / ___\\/  ___/          "+ConsoleColors.GREEN_BRIGHT+"*****          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          *****"+"      |  | |  |  /   |  \\   \\     /|  ||  | |   Y  \\   |  |  |  |__/ __ \\_/ /_/  >___ \\           "+ConsoleColors.GREEN_BRIGHT+"*****          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          *****"+"      |__| |____/|___|  /    \\/\\_/ |__||__| |___|  /   |__|  |____(____  /\\___  /____  >          "+ConsoleColors.GREEN_BRIGHT+"*****          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          *****"+"                      \\/                         \\/                    \\//_____/     \\/           "+ConsoleColors.GREEN_BRIGHT+"*****          "+ConsoleColors.RESET); 
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          ************************************************************************************************************          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          ************************************************************************************************************          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          ************************************************************************************************************          "+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN_BRIGHT+"          ************************************************************************************************************          ");
-limpiar(5);
+System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"   _____                       .__  __  .__         _____.__                       "+ConsoleColors.GREEN_BRIGHT+"*"); 
+System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"_/ ____\\_ __  ____    __  _  _|__|/  |_|  |__    _/ ____\\  | _____     ____  ______"+ConsoleColors.GREEN_BRIGHT+"*");
+System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"\\   __\\  |  \\/    \\   \\ \\/ \\/ /  \\   __\\  |  \\   \\   __\\|  | \\__  \\   / ___\\/  ___/"+ConsoleColors.GREEN_BRIGHT+"*");
+System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+" |  | |  |  /   |  \\   \\     /|  ||  | |   Y  \\   |  |  |  |__/ __ \\_/ /_/  >___ \\ "+ConsoleColors.GREEN_BRIGHT+"*");
+System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+" |__| |____/|___|  /    \\/\\_/ |__||__| |___|  /   |__|  |____(____  /\\___  /____  >"+ConsoleColors.GREEN_BRIGHT+"*");
+System.out.println(ConsoleColors.GREEN_BRIGHT+"*"+"                 \\/                         \\/                    \\//_____/     \\/"+ConsoleColors.GREEN_BRIGHT+"*"); 
+limpiar(15);
 preg();
 
 
