@@ -26,7 +26,7 @@ public class Preguntas{
 			BufferedReader archivoLeido=new BufferedReader(miArchivo);//Permite leer texto de un InputStream de una forma sencilla. Permite leer caracteres, arrays y líneas.
 					
 
-			//lleno la matriz de vacios
+			//lleno la matriz de vacios 
 			for(int m=0; m<5; m++ ){
 
 				for(int n=0; n<5; n++){
@@ -142,7 +142,7 @@ public class Preguntas{
 			//System.out.println();
 			//System.out.println();
 
-			for(int m=0; m<5; m++ ){
+			for(int m=0; m<5; m++ ){//Punto de control
 
 				for(int n=0; n<5; n++){
 						//System.out.print(preguntas2[m][n] + " ");
@@ -192,7 +192,7 @@ public class Preguntas{
     				if (correcta==4) {
 			    		//System.out.println("YOU WIN!!");
 			    		estaEnJuego=false;
-			    		System.out.println("");
+			    		System.out.println("vsgd");
 		    		}
 
     			}
