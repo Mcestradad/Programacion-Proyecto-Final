@@ -371,7 +371,7 @@ for(count=1; count<200;count++){
     				System.out.println("Correcto");
     				correcta= correcta + 1;
     				score = score + 50;
-    				limpiar();
+    				limpiar(59);
     				//código para imprimir la bandera
 
     				if (correcta==4) {
@@ -385,7 +385,7 @@ for(count=1; count<200;count++){
     				System.out.println("Incorrecto");
     				incorrecta= incorrecta + 1;
     				score = score -50;
-    				limpiar();
+    				limpiar(59);
 
     				if (incorrecta==2) {
 			    		System.out.println("Game Over");
