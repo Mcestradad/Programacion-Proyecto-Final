@@ -6,19 +6,218 @@ import java.util.StringTokenizer;
 
 public class trabajo {
 
-	public static void limpiar(int lineas){
+	public static void limpiar(int lineas){ //Función para limpiar la consola.
 		for (int i=0; i < lineas; i++){
 			System.out.println("");
 			}
 	}
-	public static int aleatorio(int a){
+	public static int aleatorio(int a){ //Función para un entero aleatorio.
 int c= (int)(Math.random()*a);
 return c;
 }
 
-public static void miniJuego(){
+	public static void felicitacion(){
+
+
+		int tipo= (int)((Math.random()*10)+1);
+
+		switch(tipo){
+
+			case 1:
+
+				System.out.println(ConsoleColors.GREEN+"__________.__                .__                  .__          ._.");
+				System.out.println(ConsoleColors.GREEN+"\\______   \\__| ____   ____   |  |__   ____   ____ |  |__   ____| |");
+				System.out.println(ConsoleColors.GREEN+" |    |  _/  |/ __ \\ /    \\  |  |  \\_/ __ \\_/ ___\\|  |  \\ /  _ \\ |");
+				System.out.println(ConsoleColors.GREEN+" |    |   \\  \\  ___/|   |  \\ |   Y  \\  ___/\\  \\___|   Y  (  <_> )|");
+				System.out.println(ConsoleColors.GREEN+" |______  /__|\\___  >___|  / |___|  /\\___  >\\___  >___|  /\\____/__");
+				System.out.println(ConsoleColors.GREEN+"        \\/        \\/     \\/       \\/     \\/     \\/     \\/       \\/");
+
+			break;
+
+			case 2:
+
+				System.out.println(ConsoleColors.GREEN+"___________                   .__                 __        ._.");
+				System.out.println(ConsoleColors.GREEN+"\\_   _____/__  ___ ____  ____ |  |   ____   _____/  |_  ____| |");
+				System.out.println(ConsoleColors.GREEN+" |    __)_\\  \\/  // ___\\/ __ \\|  | _/ __ \\ /    \\   __\\/ __ \\ |");
+				System.out.println(ConsoleColors.GREEN+" |        \\>    <\\  \\__\\  ___/|  |_\\  ___/|   |  \\  | \\  ___/\\|");
+				System.out.println(ConsoleColors.GREEN+"/_______  /__/\\_  \\___  >___  >____/\\___  >___|  /__|  \\___  >_");
+				System.out.println(ConsoleColors.GREEN+"        \\/      \\/    \\/    \\/          \\/     \\/          \\/\\/	");;
+			break;
+
+			case 3:
+
+				System.out.println(ConsoleColors.GREEN+"__________               _____              __          ");
+				System.out.println(ConsoleColors.GREEN+"\\______   \\ ____________/ ____\\____   _____/  |_  ____  ");
+				System.out.println(ConsoleColors.GREEN+" |     ___// __ \\_  __ \\   __\\/ __ \\_/ ___\\   __\\/  _ \\ ");
+				System.out.println(ConsoleColors.GREEN+" |    |   \\  ___/|  | \\/|  | \\  ___/\\  \\___|  | (  <_> )");
+				System.out.println(ConsoleColors.GREEN+" |____|    \\___  >__|   |__|  \\___  >\\___  >__|  \\____/ ");
+				System.out.println(ConsoleColors.GREEN+"               \\/                 \\/     \\/            			");
+
+			break;
+
+
+			case 4:
+
+				System.out.println(ConsoleColors.GREEN+"   _____                 __________.__             ._.");
+				System.out.println(ConsoleColors.GREEN+"  /     \\  __ __ ___.__. \\______   \\__| ____   ____| |");
+				System.out.println(ConsoleColors.GREEN+" /  \\ /  \\|  |  <   |  |  |    |  _/  |/ __ \\ /    \\ |");
+				System.out.println(ConsoleColors.GREEN+"/    Y    \\  |  /\\___  |  |    |   \\  \\  ___/|   |  \\|");
+				System.out.println(ConsoleColors.GREEN+"\\____|__  /____/ / ____|  |______  /__|\\___  >___|  /_");
+				System.out.println(ConsoleColors.GREEN+"        \\/       \\/              \\/        \\/     \\/\\/			");
+
+			break;
+
+			case 5:
+
+				System.out.println(ConsoleColors.GREEN+"___________                       .__              _____              __             ._.");
+				System.out.println(ConsoleColors.GREEN+"\\_   _____/______   ____   ______ |  |   ____     /     \\   ____     |__| ___________| |");
+				System.out.println(ConsoleColors.GREEN+" |    __)_\\_  __ \\_/ __ \\ /  ___/ |  |  /  _ \\   /  \\ /  \\_/ __ \\    |  |/  _ \\_  __ \\ |");
+				System.out.println(ConsoleColors.GREEN+" |        \\|  | \\/\\  ___/ \\___ \\  |  |_(  <_> ) /    Y    \\  ___/    |  (  <_> )  | \\/\\|");
+				System.out.println(ConsoleColors.GREEN+"/_______  /|__|    \\___  >____  > |____/\\____/  \\____|__  /\\___  >\\__|  |\\____/|__|   __");
+				System.out.println(ConsoleColors.GREEN+"        \\/             \\/     \\/                        \\/     \\/\\______|             \\/");
+
+			break;
+
+			case 6:
+				
+				System.out.println(ConsoleColors.GREEN+" _______  .__            ._.");
+				System.out.println(ConsoleColors.GREEN+" \\      \\ |__| ____  ____| |");
+				System.out.println(ConsoleColors.GREEN+" /   |   \\|  |/ ___\\/ __ \\ |");
+				System.out.println(ConsoleColors.GREEN+"/    |    \\  \\  \\__\\  ___/\\|");
+				System.out.println(ConsoleColors.GREEN+"\\____|__  /__|\\___  >___  >_");
+				System.out.println(ConsoleColors.GREEN+"        \\/        \\/    \\/\\/");		
+				
+			break;
+
+			case 7:
+
+				System.out.println(ConsoleColors.GREEN+" __      __      __      __._.");
+				System.out.println(ConsoleColors.GREEN+"/  \\    /  \\____/  \\    /  \\ |");
+				System.out.println(ConsoleColors.GREEN+"\\   \\/\\/   /  _ \\   \\/\\/   / |");
+				System.out.println(ConsoleColors.GREEN+" \\        (  <_> )        / \\|");
+				System.out.println(ConsoleColors.GREEN+"  \\__/\\  / \\____/ \\__/\\  /  __");
+				System.out.println(ConsoleColors.GREEN+"       \\/              \\/   \\/");	
+			break;
+
+			case 8:
+
+				System.out.println(ConsoleColors.GREEN+"___________              ___________           ._.");
+				System.out.println(ConsoleColors.GREEN+"\\_   _____/__________    \\_   _____/__________ | |");
+				System.out.println(ConsoleColors.GREEN+" |    __)_\\____ \\__  \\    |    __)_\\____ \\__  \\| |");
+				System.out.println(ConsoleColors.GREEN+" |        \\  |_> > __ \\_  |        \\  |_> > __ \\\\|");
+				System.out.println(ConsoleColors.GREEN+"/_______  /   __(____  / /_______  /   __(____  /_");
+				System.out.println(ConsoleColors.GREEN+"        \\/|__|       \\/          \\/|__|       \\/\\/");			
+
+			break;
+
+			case 9:
+
+				System.out.println(ConsoleColors.GREEN+"_________                                   __        ._.");
+				System.out.println(ConsoleColors.GREEN+"\\_   ___ \\  __________________  ____  _____/  |_  ____| |");
+				System.out.println(ConsoleColors.GREEN+"/    \\  \\/ /  _ \\_  __ \\_  __ \\/ __ \\/ ___\\   __\\/  _ \\ |");
+				System.out.println(ConsoleColors.GREEN+"\\     \\___(  <_> )  | \\/|  | \\|  ___|  \\___|  | (  <_> )|");
+				System.out.println(ConsoleColors.GREEN+" \\______  /\\____/|__|   |__|   \\___  >___  >__|  \\____/__");
+				System.out.println(ConsoleColors.GREEN+"        \\/                         \\/    \\/            \\/");	
+				
+			break;
+
+
+			default:
+
+			System.out.println(ConsoleColors.GREEN+"___________           ._.");
+			System.out.println(ConsoleColors.GREEN+"\\_   _____/ __________| |");
+			System.out.println(ConsoleColors.GREEN+" |    __)_ /  ___/  _ \\ |");
+			System.out.println(ConsoleColors.GREEN+" |        \\\\___ (  <_> )|");
+			System.out.println(ConsoleColors.GREEN+"/_______  /____  >____/__");
+			System.out.println(ConsoleColors.GREEN+"        \\/     \\/      \\/");
+
+			break;
+
+
+		}
+
+
+
+	}
+
+
+	public static void incorrecto(){
+
+
+		int tipo= (int)((Math.random()*5)+1);
+
+		switch(tipo){
+
+			case 1:
+
+				System.out.println(ConsoleColors.RED+".___                                               __          ");
+				System.out.println(ConsoleColors.RED+"|   | ____   ____  __________________  ____  _____/  |_  ____  ");
+				System.out.println(ConsoleColors.RED+"|   |/    \\_/ ___\\/  _ \\_  __ \\_  __ \\/ __ \\/ ___\\   __\\/  _ \\ ");
+				System.out.println(ConsoleColors.RED+"|   |   |  \\  \\__(  <_> )  | \\/|  | \\|  ___|  \\___|  | (  <_> )");
+				System.out.println(ConsoleColors.RED+"|___|___|  /\\___  >____/|__|   |__|   \\___  >___  >__|  \\____/ ");
+				System.out.println(ConsoleColors.RED+"         \\/     \\/                        \\/    \\/             ");
+
+			break;
+
+			case 2:
+
+
+				System.out.println(ConsoleColors.RED+".___        __                 __               .___                                                ");
+				System.out.println(ConsoleColors.RED+"|   | _____/  |_  ____   _____/  |______      __| _/____     ____  __ __  _______  ______           ");
+				System.out.println(ConsoleColors.RED+"|   |/    \\   __\\/ __ \\ /    \\   __\\__  \\    / __ |/ __ \\   /    \\|  |  \\/ __ \\  \\/ /  _ \\     ");
+				System.out.println(ConsoleColors.RED+"|   |   |  \\  | \\  ___/|   |  \\  |  / __ \\_ / /_/ \\  ___/  |   |  \\  |  |  ___/\\   (  <_> )         ");
+				System.out.println(ConsoleColors.RED+"|___|___|  /__|  \\___  >___|  /__| (____  / \\____ |\\___  > |___|  /____/ \\___  >\\_/ \\____/ /\\ /\\ /\\ ");
+				System.out.println(ConsoleColors.RED+"         \\/          \\/     \\/          \\/       \\/    \\/       \\/           \\/            \\/ \\/ \\/ ");
+			break;
+
+			case 3:
+
+				
+				System.out.println(ConsoleColors.RED+"________  .__                   ._.");
+				System.out.println(ConsoleColors.RED+"\\_____  \\ |  |__     ____   ____| |");
+				System.out.println(ConsoleColors.RED+" /   |   \\|  |  \\   /    \\ /  _ \\ |");
+				System.out.println(ConsoleColors.RED+"/    |    \\   Y  \\ |   |  (  <_> )|");
+				System.out.println(ConsoleColors.RED+"\\_______  /___|  / |___|  /\\____/__");
+				System.out.println(ConsoleColors.RED+"        \\/     \\/       \\/       \\/");
+
+			break;
+
+
+			case 4:
+
+				System.out.println(ConsoleColors.RED+" ____ ___             ._.");
+				System.out.println(ConsoleColors.RED+"|    |   \\_____  _____| |");
+				System.out.println(ConsoleColors.RED+"|    |   |____ \\/  ___/ |");
+				System.out.println(ConsoleColors.RED+"|    |  /|  |_> >___ \\ \\|");
+				System.out.println(ConsoleColors.RED+"|______/ |   __/____  >__");
+				System.out.println(ConsoleColors.RED+"         |__|       \\/ \\/");
+
+			break;
+
+			
+
+
+			default:
+
+			System.out.println(ConsoleColors.RED+"________   __                                       ");
+			System.out.println(ConsoleColors.RED+"\\_____  \\_/  |_____________    ___  __ ____ ________");
+			System.out.println(ConsoleColors.RED+" /   |   \\   __\\_  __ \\__  \\   \\  \\/ // __ \\\\___   /");
+			System.out.println(ConsoleColors.RED+"/    |    \\  |  |  | \\// __ \\_  \\   /\\  ___/ /    / ");
+			System.out.println(ConsoleColors.RED+"\\_______  /__|  |__|  (____  /   \\_/  \\___  >_____ \\");
+			System.out.println(ConsoleColors.RED+"        \\/                 \\/             \\/      \\/");
+
+			break;
+
+
+		}
+
+
+
+	}
+
+public static void miniJuego(){ //Función para el minijuego
 int num1,num2,num3,num4,num5,choto,choto1,resultado1,resultado, count;
-for(count=1; count<200;count++){
+for(count=1; count<200;count++){ //Generar números aleatorios en rangos diferentes.
 	num1=(int)((Math.random()*10)+1);
 	num2=(int)((Math.random()*10)+1);
 	num3=(int)((Math.random()*10)+1);
@@ -162,7 +361,7 @@ for(count=1; count<200;count++){
 	}
 
 
-	public static String devolverPais() throws IOException{
+	public static String devolverPais() throws IOException{ //Función para determinar un país aleatorio.
 		int numPais;
 
 		String cadena, pais;
@@ -207,7 +406,7 @@ for(count=1; count<200;count++){
 
 
 
-	public static void preg() throws IOException{
+	public static void preg() throws IOException{ //Función para mostrar preguntas y respuestas aleatorias según el pais de la función anterior.
 
 		    int i;
 
@@ -383,36 +582,36 @@ for(count=1; count<200;count++){
 			    
     			if(rta.equals(preguntas[i][2])){
     				
-    				System.out.println("Correcto");
+    				felicitacion();
     				correcta= correcta + 1;
     				score = score + 50;
-    				limpiar(8);
+    				limpiar(59);
 
     				//código para imprimir la bandera
 
     				if (correcta==4) {
 			    		//System.out.println("YOU WIN!!");
 			    		estaEnJuego=false;
-			    		System.out.println("vsgd");
+			    		felicitacion();
 		    		}
 
     			}
     			else{
-    				System.out.println("Incorrecto");
+    				incorrecto();
     				incorrecta= incorrecta + 1;
     				score = score -50;
 
-    				limpiar(8);
+    				limpiar(59);
 
 
-    				if (incorrecta==2) {
-			    		System.out.println("Game Over");
+    				if (rta.equals("x")){
+			    		System.out.println("Saliste del juego.");
 			    		estaEnJuego=false;
 
 		    		}
 
-		    		else if(rta.equals("x")){
-			    		System.out.println("Saliste del juego.");
+		    		else if(incorrecta==2) {
+			    		System.out.println("Game Over");
 			    		estaEnJuego=false;
 
 
@@ -435,7 +634,7 @@ for(count=1; count<200;count++){
 
 
 
-public static void main(String args[]) throws IOException{
+public static void main(String args[]) throws IOException{  //Función principal. Sale menú.
 
  int decision=0;
  int bucle=1;
