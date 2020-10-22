@@ -17,6 +17,7 @@ public class Preguntas{
 
 
 			String pais;
+
 			pais=Paises.devolverPais();
 
 			//System.out.println("El pais a buscar es: " + pais);
@@ -185,12 +186,13 @@ public class Preguntas{
     				System.out.println("Correcto");
     				correcta= correcta + 1;
     				score = score + 50;
-    				
+
     				//código para imprimir la bandera
 
     				if (correcta==4) {
 			    		//System.out.println("YOU WIN!!");
 			    		estaEnJuego=false;
+			    		System.out.println("");
 		    		}
 
     			}
