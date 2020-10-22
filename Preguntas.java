@@ -154,13 +154,13 @@ public class Preguntas{
 			int score =0;
 			int incorrecta=0;
 			
-			boolean estaEnJuego=false;
+			boolean estaEnJuego=true;
 			
 
 			i=0;
 
 
-			while (!estaEnJuego) {
+			while (estaEnJuego) {
 
 
 			System.out.println();
@@ -185,13 +185,34 @@ public class Preguntas{
     				System.out.println("Correcto");
     				correcta= correcta + 1;
     				score = score + 50;
+    				
+    				//código para imprimir la bandera
 
+    				if (correcta==4) {
+			    		//System.out.println("YOU WIN!!");
+			    		estaEnJuego=false;
+		    		}
 
     			}
     			else{
     				System.out.println("Incorrecto");
     				incorrecta= incorrecta + 1;
     				score = score -50;
+
+
+    				if (incorrecta==2) {
+			    		System.out.println("Game Over");
+			    		estaEnJuego=false;
+
+		    		}
+
+		    		else if(rta.equals("x")){
+			    		System.out.println("Saliste del juego.");
+			    		estaEnJuego=false;
+
+
+
+		    		}
     			}
 		   //}
 
@@ -200,6 +221,9 @@ public class Preguntas{
 
 
 		    System.out.println("Score: " + score + "        Correct: " + correcta + "        Incorrect: " + incorrecta);
+
+
+
 
 		}
     }
