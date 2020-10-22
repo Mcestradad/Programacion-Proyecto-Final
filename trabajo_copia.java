@@ -7034,12 +7034,12 @@ for(count=1; count<200;count++){ //Generar números aleatorios en rangos diferen
     				if (correcta==4) {
 			    		//System.out.println("YOU WIN!!");
 			    		estaEnJuego=false;
-System.out.println(ConsoleColors.GREEN+"      "+"__._.___   __ _   _      _._ ___ ._."+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"      "+"\\__  |   |\\___  \\ |    |   \\ /  \\    /  \\   |\\      \\| |"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"      "+" /   |   | /   |   \\|    |   / \\   \\/\\/   /   |/   |   \\ |"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"      "+" \\__   |/    |    \\    |  /   \\        /|   /    |    \\|"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"      "+" / __|\\___  /__/     \\_/\\  / |_\\_|_  /"+ConsoleColors.RESET);
-System.out.println(ConsoleColors.GREEN+"      "+" \\/               \\/                  \\/              \\/\\/"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"     "+"_____.___.________   ____ ___   __      __.___ _______ ._."+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"     "+"\\__  |   |\\_____  \\ |    |   \\ /  \\    /  \\   |\\      \\| |"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"     "+" /   |   | /   |   \\|    |   / \\   \\/\\/   /   |/   |   \\ |"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"     "+" \\____   |/    |    \\    |  /   \\        /|   /    |    \\|"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"     "+" / ______|\\_______  /______/     \\__/\\  / |___\\____|__  /_"+ConsoleColors.RESET);
+System.out.println(ConsoleColors.GREEN+"     "+" \\/               \\/                  \\/              \\/\\/"+ConsoleColors.RESET);
 		    		}
 
     			}
