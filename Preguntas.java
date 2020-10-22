@@ -154,19 +154,27 @@ public class Preguntas{
 			int score =0;
 			int incorrecta=0;
 
-			System.out.println("Score: " + score + "Correct: " + correcta + "Incorrect: " + incorrecta);
-			System.out.println("Pregunta: " + preguntas[i][2]);
-			System.out.print("Opciones: " + preguntas2[][]);
+			System.out.println("Score: " + score + "        Correct: " + correcta + "        Incorrect: " + incorrecta);
+			System.out.println("Pregunta: " + preguntas[0][1]);
+			for(int m=3; m<5; m++ ){
+
+				for(int n=0; n<5; n++){
+						System.out.print(preguntas2[m][n] + " ");
+				}
+				System.out.println();
+			//System.out.print("Opciones: " + preguntas2[][]);
 			Scanner reader= new Scanner(System.in);
 			rta = reader.nextLine();
-			if(rta.equals(vector[2])){
+			
+			}	
+			/**if(rta==vector[2]){
 				correcta= correcta + 1;
 				score = score + 50;
 			}
 			else{
 				correcta= correcta + 1;
 				score = score -50;
-			}
+			}**/
 
 
 		}
