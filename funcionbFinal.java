@@ -15,10 +15,10 @@ return c;
 
 }
 
-public static void bandera(int a){
-String[] bandera= ConsoleFile.read("recursos/info_banderas.csv");
-int contador;
-contador=ConsoleInput.getInt();
+public static void bandera(int a, int contador){
+String[] bandera= ConsoleFile.read("javas/recursos/info_banderas.csv");
+
+
 if (a==1) {
 
 	switch(contador){
@@ -6393,10 +6393,12 @@ break;
 
 }
 	public static void main(String[] args) {
+		int correcta=0;
+
+		correcta=ConsoleInput.getInt();
 
 
-
-		bandera(aleatorio(24));
+		bandera(aleatorio(24), correcta);
 
 
 
