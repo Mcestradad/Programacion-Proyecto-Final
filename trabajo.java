@@ -44,6 +44,7 @@ for(count=1; count<200;count++){
 						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 1 es: "+num1+ConsoleColors.RESET);
 						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 2 es: "+num2+ConsoleColors.RESET);
 						System.out.println(ConsoleColors.GREEN_BRIGHT+"                                  "+"El numero 3 es: "+num3+ConsoleColors.RESET);
+
 						break;
 					}
 				}
@@ -113,6 +114,7 @@ for(count=1; count<200;count++){
 					}
 				}
 			if(num5==2){
+
 				System.out.println(ConsoleColors.GREEN_BRIGHT+"      		      	                 -----------------------------------------"+ConsoleColors.RESET);
 				System.out.println("                   	  	      	 "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"    "+"__"+" - "+num2+" + "+"__"+"= "+choto+ConsoleColors.GREEN_BRIGHT+"                     |"+ConsoleColors.RESET);
 				System.out.println(ConsoleColors.GREEN_BRIGHT+"                 	 	         -----------------------------------------"+ConsoleColors.RESET);
@@ -134,6 +136,7 @@ for(count=1; count<200;count++){
 					}
 				}
 			if(num5==3){
+
 				System.out.println(ConsoleColors.GREEN_BRIGHT+"             	               	         -----------------------------------------"+ConsoleColors.RESET);
 				System.out.println("                            	  	  "+ConsoleColors.GREEN_BRIGHT+"|"+ConsoleColors.RESET+"    "+"__"+" - "+"___"+" + "+num3+"= "+choto+ConsoleColors.GREEN_BRIGHT+"                   |"+ConsoleColors.RESET);
 				System.out.println(ConsoleColors.GREEN_BRIGHT+"           	      	                 -----------------------------------------"+ConsoleColors.RESET);
@@ -384,6 +387,7 @@ for(count=1; count<200;count++){
     				correcta= correcta + 1;
     				score = score + 50;
     				limpiar(8);
+
     				//código para imprimir la bandera
 
     				if (correcta==4) {
@@ -397,7 +401,9 @@ for(count=1; count<200;count++){
     				System.out.println("Incorrecto");
     				incorrecta= incorrecta + 1;
     				score = score -50;
+
     				limpiar(8);
+
 
     				if (incorrecta==2) {
 			    		System.out.println("Game Over");
@@ -434,7 +440,9 @@ public static void main(String args[]) throws IOException{
  int decision=0;
  int bucle=1;
  int decision2=0;
+
  int decision3=0;
+
 
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                                       "+ConsoleColors.PURPLE_BRIGHT+"            ___________						   "+ConsoleColors.RESET+"                        "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"                                       "+ConsoleColors.PURPLE_BRIGHT+"           / |       | |						  "+ConsoleColors.RESET+"                         "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
@@ -499,7 +507,6 @@ System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+"    
  case 1:
  System.out.println();
  limpiar(56);
-
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88888888888888888888888888888888888888888888888888888888888888888888888                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88.._|      | `-.  | `.  -_-_ _-_  _-  _- -_ -  .'|   |.'|     |  _..88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
 System.out.println(ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET+ConsoleColors.PURPLE_BRIGHT+"                            88   `-.._  |    |`!  |`.  -_ -__ -_ _- _-_-  .'  |.;'   |   _.!-'|  88                     "+ConsoleColors.GREEN_BRIGHT+"******"+ConsoleColors.RESET);
@@ -603,6 +610,7 @@ case 1:
  }
  System.out.println();
  System.out.println(ConsoleColors.PURPLE_BRIGHT+"¿Otra opcion?, digita 0 para \"Si\" o digita 1 para \"No\" "+ConsoleColors.RESET);
+
  bucle=ConsoleInput.getInt();
  switch(bucle){
  	case 0:
