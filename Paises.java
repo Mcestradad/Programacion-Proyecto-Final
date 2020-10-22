@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 class Paises {
 	//public static void main(String args[]) throws IOException{
 	public static String devolverPais() throws IOException{
-		int numPais;
+		int numPais, posicion;
 
 		String cadena, pais;
 
@@ -35,7 +35,8 @@ class Paises {
 
         	 if (numPais==Integer.parseInt(vector[0])){
         	 		// System.out.println("el tamaño del vector es: "+vector.length+"\nLa Pos 0: "+vector[0]+ " \nEl vector "+ Arrays.toString(vector));
-        	 		pais=vector[1];   
+        	 		pais=vector[1];
+        	 		posicion=vector[0];   
         	 		//System.out.println("El pais es:" + pais);    	 		
         	 }
 
@@ -45,7 +46,7 @@ class Paises {
       
 
       		return pais;
-
+      		return posicion;
 	}
 
 
