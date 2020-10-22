@@ -32,13 +32,28 @@ if (a==1) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -60,14 +75,29 @@ if (a==1) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-					break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -89,13 +119,28 @@ if (a==1) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-							System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -113,14 +158,29 @@ if (a==1) {
 						switch(separador[s]){
 
 							case "1":
-								System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-							break;
-							case "2":
-								System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-							break;
-							case "3":
-								System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-							break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -144,13 +204,28 @@ if (a==1) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -170,13 +245,28 @@ if (a==1) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -201,14 +291,29 @@ if (a==2) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 
@@ -230,13 +335,28 @@ if (a==2) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
 						break;
 						case "4":
-							System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 				}
 			}
@@ -259,14 +379,29 @@ if (a==2) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -283,14 +418,29 @@ if (a==2) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -314,14 +464,29 @@ if (a==2) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -338,14 +503,29 @@ if (a==2) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}
 	}
 	System.out.print(ConsoleColors.RESET);
@@ -370,11 +550,28 @@ if (a==3) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -396,12 +593,29 @@ if (a==3) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-					break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -423,11 +637,28 @@ if (a==3) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-							System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -445,12 +676,29 @@ if (a==3) {
 						switch(separador[s]){
 
 							case "1":
-								System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-							break;
-							
-							case "3":
-								System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-							break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -474,11 +722,28 @@ if (a==3) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -494,11 +759,29 @@ if (a==3) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -519,11 +802,28 @@ if (a==4) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -545,12 +845,29 @@ if (a==4) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-					break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -572,11 +889,28 @@ if (a==4) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-							System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -594,12 +928,29 @@ if (a==4) {
 						switch(separador[s]){
 
 							case "1":
-								System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-							break;
-							
-							case "3":
-								System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-							break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -623,11 +974,28 @@ if (a==4) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -643,11 +1011,29 @@ if (a==4) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 			case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -669,11 +1055,28 @@ if (a==5) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -695,12 +1098,29 @@ if (a==5) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-					break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -722,11 +1142,28 @@ if (a==5) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-							System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -744,12 +1181,29 @@ if (a==5) {
 						switch(separador[s]){
 
 							case "1":
-								System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-							break;
-							
-							case "3":
-								System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-							break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -773,11 +1227,28 @@ if (a==5) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -794,11 +1265,29 @@ if (a==5) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 			case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -821,14 +1310,29 @@ if (a==6) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -849,14 +1353,29 @@ if (a==6) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -878,14 +1397,29 @@ if (a==6) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -902,14 +1436,29 @@ if (a==6) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -933,14 +1482,29 @@ if (a==6) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -955,14 +1519,29 @@ if (a==6) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -983,12 +1562,30 @@ if (a==7) {
 
 					switch(separador[s]){
 
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		
 					}
 				}
@@ -1009,12 +1606,30 @@ if (a==7) {
 
 					switch(separador[s]){
 
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		
 				}
 			}
@@ -1036,12 +1651,30 @@ if (a==7) {
 
 					switch(separador[s]){
 
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		
 				}
 				}
@@ -1058,12 +1691,30 @@ if (a==7) {
 
 						switch(separador[s]){
 
-							case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+							case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		
 						}
 					}
@@ -1087,12 +1738,30 @@ if (a==7) {
 
 					switch(separador[s]){
 
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		
 					}
 				}
@@ -1109,12 +1778,30 @@ if (a==7) {
 		String[] separador= bandera[j].split(";"); 
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
-		case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+		case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -1137,13 +1824,28 @@ if (a==8) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -1165,14 +1867,29 @@ if (a==8) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-					break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -1194,13 +1911,28 @@ if (a==8) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-							System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -1218,14 +1950,29 @@ if (a==8) {
 						switch(separador[s]){
 
 							case "1":
-								System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-							break;
-							case "2":
-								System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-							break;
-							case "3":
-								System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-							break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -1249,13 +1996,28 @@ if (a==8) {
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
 						case "2":
-							System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
 						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -1271,14 +2033,29 @@ if (a==8) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 					case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -1300,11 +2077,28 @@ switch(contador){
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -1326,12 +2120,29 @@ switch(contador){
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-					break;
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -1353,11 +2164,28 @@ switch(contador){
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-							System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -1375,12 +2203,29 @@ switch(contador){
 						switch(separador[s]){
 
 							case "1":
-								System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-							break;
-							
-							case "3":
-								System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-							break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -1404,11 +2249,28 @@ switch(contador){
 					switch(separador[s]){
 
 						case "1":
-							System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
 						break;
-						
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
 						case "3":
-						System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
 						break;
 					}
 				}
@@ -1425,11 +2287,29 @@ switch(contador){
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 					case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}
 		}
 	System.out.print(ConsoleColors.RESET);
@@ -1452,14 +2332,29 @@ if (a==10) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -1480,14 +2375,29 @@ if (a==10) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -1509,14 +2419,29 @@ if (a==10) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -1533,14 +2458,29 @@ if (a==10) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -1564,14 +2504,29 @@ if (a==10) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -1587,14 +2542,29 @@ if (a==10) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 			case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 		
 	System.out.print(ConsoleColors.RESET);
@@ -1617,14 +2587,29 @@ if (a==11) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -1645,14 +2630,29 @@ if (a==11) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -1674,14 +2674,29 @@ if (a==11) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -1698,14 +2713,29 @@ if (a==11) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -1729,14 +2759,29 @@ if (a==11) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -1754,14 +2799,29 @@ if (a==11) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 					case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -1783,11 +2843,29 @@ if (a==12) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -1808,11 +2886,29 @@ if (a==12) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -1834,11 +2930,29 @@ if (a==12) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -1855,11 +2969,29 @@ if (a==12) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -1883,11 +3015,29 @@ if (a==12) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -1904,11 +3054,29 @@ if (a==12) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -1930,14 +3098,29 @@ if (a==13) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -1958,14 +3141,29 @@ if (a==13) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -1987,14 +3185,29 @@ if (a==13) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -2011,14 +3224,29 @@ if (a==13) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -2042,14 +3270,29 @@ if (a==13) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2065,14 +3308,29 @@ if (a==13) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -2094,14 +3352,29 @@ if (a==14) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2122,14 +3395,29 @@ if (a==14) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -2151,14 +3439,29 @@ if (a==14) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -2175,14 +3478,29 @@ if (a==14) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -2205,15 +3523,30 @@ if (a==14) {
 
 					switch(separador[s]){
 
-						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						ccase "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2229,14 +3562,29 @@ if (a==14) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 			case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -2259,17 +3607,29 @@ if (a==15) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2290,17 +3650,29 @@ if (a==15) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -2322,17 +3694,29 @@ if (a==15) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -2349,17 +3733,29 @@ if (a==15) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -2383,17 +3779,29 @@ if (a==15) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2408,17 +3816,29 @@ if (a==15) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -2440,17 +3860,29 @@ if (a==16) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2471,17 +3903,29 @@ if (a==16) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -2503,17 +3947,29 @@ if (a==16) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -2530,17 +3986,29 @@ if (a==16) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -2564,17 +4032,29 @@ if (a==16) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2589,17 +4069,29 @@ if (a==16) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -2621,17 +4113,29 @@ switch(contador){
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2652,17 +4156,29 @@ switch(contador){
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -2684,17 +4200,29 @@ switch(contador){
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -2711,17 +4239,29 @@ switch(contador){
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -2745,17 +4285,29 @@ switch(contador){
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2772,17 +4324,29 @@ switch(contador){
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "8":
-			System.out.print(ConsoleColors.BLACK_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -2804,14 +4368,29 @@ if (a==18) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2832,14 +4411,29 @@ if (a==18) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -2861,14 +4455,29 @@ if (a==18) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -2885,14 +4494,29 @@ if (a==18) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -2916,14 +4540,29 @@ if (a==18) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2939,14 +4578,29 @@ if (a==18) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -2968,14 +4622,29 @@ if (a==19) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -2996,14 +4665,29 @@ if (a==19) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -3025,14 +4709,29 @@ if (a==19) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -3049,14 +4748,29 @@ if (a==19) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -3080,14 +4794,29 @@ if (a==19) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;					}
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;					}
 				}
 
 				System.out.print(ConsoleColors.RESET);
@@ -3102,14 +4831,29 @@ if (a==19) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -3131,12 +4875,30 @@ if (a==20) {
 
 					switch(separador[s]){
 
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
 						case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3156,12 +4918,30 @@ if (a==20) {
 
 					switch(separador[s]){
 
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
 						case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -3182,12 +4962,30 @@ if (a==20) {
 
 					switch(separador[s]){
 
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
 						case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -3203,12 +5001,30 @@ if (a==20) {
 
 						switch(separador[s]){
 
-							case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+							case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -3231,12 +5047,30 @@ if (a==20) {
 
 					switch(separador[s]){
 
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
 						case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3250,12 +5084,30 @@ if (a==20) {
 		String[] separador= bandera[j].split(";"); 
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
-		case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+		case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -3277,14 +5129,29 @@ if (a==21) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3305,14 +5172,29 @@ if (a==21) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -3334,14 +5216,29 @@ if (a==21) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -3358,14 +5255,29 @@ if (a==21) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -3389,14 +5301,29 @@ if (a==21) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3412,14 +5339,29 @@ if (a==21) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -3441,14 +5383,29 @@ if (a==22) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3469,14 +5426,29 @@ if (a==22) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -3498,14 +5470,29 @@ if (a==22) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -3522,14 +5509,29 @@ if (a==22) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -3553,14 +5555,29 @@ if (a==22) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3579,14 +5596,29 @@ if (a==22) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -3608,14 +5640,29 @@ if (a==23) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3636,14 +5683,29 @@ if (a==23) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -3665,14 +5727,29 @@ if (a==23) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -3689,14 +5766,29 @@ if (a==23) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -3720,14 +5812,29 @@ if (a==23) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3743,14 +5850,29 @@ if (a==23) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "4":
-			System.out.print(ConsoleColors.YELLOW_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}}
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
@@ -3771,17 +5893,29 @@ if (a==24) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3802,17 +5936,29 @@ if (a==24) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -3834,17 +5980,29 @@ if (a==24) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -3861,17 +6019,29 @@ if (a==24) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -3895,17 +6065,29 @@ if (a==24) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3922,18 +6104,29 @@ if (a==24) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
-			case "5":
-			System.out.print(ConsoleColors.GREEN_BACKGROUND+"  ");
-			break;
-		}}
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 	System.out.print(ConsoleColors.RESET);
 	System.out.println();
 	
@@ -3955,14 +6148,29 @@ if (a==25) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -3983,14 +6191,29 @@ if (a==25) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 				}
 			}
 			System.out.print(ConsoleColors.RESET);
@@ -4012,14 +6235,29 @@ if (a==25) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 				System.out.print(ConsoleColors.RESET);
@@ -4036,14 +6274,29 @@ if (a==25) {
 						switch(separador[s]){
 
 							case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 						}
 					}
 					System.out.print(ConsoleColors.RESET);
@@ -4067,14 +6320,29 @@ if (a==25) {
 					switch(separador[s]){
 
 						case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 					}
 				}
 
@@ -4090,14 +6358,29 @@ for (int j=480;j<500 ;j++ ) {
 	for (int s=0;s<separador.length;s++ ) {
 		switch(separador[s]){
 		case "1":
-			System.out.print(ConsoleColors.RED_BACKGROUND+"  ");
-			break;
-			case "2":
-			System.out.print(ConsoleColors.BLUE_BACKGROUND+"  ");
-			break;
-			case "3":
-			System.out.print(ConsoleColors.WHITE_BACKGROUND+"  ");
-			break;
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
 		}
 }
 	System.out.print(ConsoleColors.RESET);
@@ -4108,12 +6391,519 @@ break;
 }
 }
 
+if (a==26) {
+
+	switch(contador){
+		case 1:
+			for (int j=500;j<510 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+				for (int s=0;s<separador.length/2 ;s++ ) {
+
+					switch(separador[s]){
+
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+					}
+				}
+
+			System.out.print(ConsoleColors.RESET);
+			System.out.println();
+
+			}
+
+		break;
+
+		case 2:
+			for (int j=500;j<520 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+				for (int s=0;s<separador.length/2 ;s++ ) {
+
+					switch(separador[s]){
+
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+				}
+			}
+			System.out.print(ConsoleColors.RESET);
+			System.out.println();
+
+		}
+
+
+		break;
+
+		case 3:
+			for (int j=500;j<510 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+				for (int s=0;s<separador.length;s++ ) {
+
+
+					switch(separador[s]){
+
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+					}
+				}
+				System.out.print(ConsoleColors.RESET);
+				System.out.println();
+
+			}
+
+			for (int j=510;j<520 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+					for (int s=0;s<separador.length/2 ;s++ ) {
+
+						switch(separador[s]){
+
+							case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+						}
+					}
+					System.out.print(ConsoleColors.RESET);
+					System.out.println();
+
+
+				}
+
+
+		break;
+
+
+		case 4:
+	
+			for (int j=500;j<520 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+				for (int s=0;s<separador.length ;s++ ) {
+
+					switch(separador[s]){
+
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+					}
+				}
+
+				System.out.print(ConsoleColors.RESET);
+				System.out.println();
+		}
+		break;
+
+		default:
+
+for (int j=500;j<520 ;j++ ) {
+		String[] separador= bandera[j].split(";"); 
+	for (int s=0;s<separador.length;s++ ) {
+		switch(separador[s]){
+		case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+		}
+}
+	System.out.print(ConsoleColors.RESET);
+	System.out.println();
+	
+}
+break;
+}
+}
+if (a==27) {
+
+	switch(contador){
+		case 1:
+			for (int j=520;j<530 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+				for (int s=0;s<separador.length/2 ;s++ ) {
+
+					switch(separador[s]){
+
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+					}
+				}
+
+			System.out.print(ConsoleColors.RESET);
+			System.out.println();
+
+			}
+
+		break;
+
+		case 2:
+			for (int j=520;j<540 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+				for (int s=0;s<separador.length/2 ;s++ ) {
+
+					switch(separador[s]){
+
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+				}
+			}
+			System.out.print(ConsoleColors.RESET);
+			System.out.println();
+
+		}
+
+
+		break;
+
+		case 3:
+			for (int j=520;j<530 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+				for (int s=0;s<separador.length;s++ ) {
+
+
+					switch(separador[s]){
+
+						case "1":
+						System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+						break;
+						case "2":
+						System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+						break;
+						case "3":
+						System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+						break;
+						case "4":
+						System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+						break;
+						case "5":
+						System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+						break;
+						case "6":
+						System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+						break;
+						case "7":
+						System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+						break;
+						case "8":
+						System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+						break;
+					}
+				}
+				System.out.print(ConsoleColors.RESET);
+				System.out.println();
+
+			}
+
+			for (int j=530;j<540 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+					for (int s=0;s<separador.length/2 ;s++ ) {
+
+						switch(separador[s]){
+
+							case "1":
+			System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+			break;
+			case "2":
+			System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+			break;
+			case "3":
+			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+			break;
+			case "4":
+			System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+			break;
+			case "5":
+			System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+			break;
+			case "6":
+			System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+			break;
+			case "7":
+			System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+			break;
+			case "8":
+			System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+			break;
+						}
+					}
+					System.out.print(ConsoleColors.RESET);
+					System.out.println();
+
+
+				}
+
+
+		break;
+
+
+		case 4:
+	
+			for (int j=520;j<540 ;j++ ) {
+
+				String[] separador= bandera[j].split(";"); 
+
+				for (int s=0;s<separador.length ;s++ ) {
+
+					switch(separador[s]){
+
+						case "1":
+			System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+			break;
+			case "2":
+			System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+			break;
+			case "3":
+			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+			break;
+			case "4":
+			System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+			break;
+			case "5":
+			System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+			break;
+			case "6":
+			System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+			break;
+			case "7":
+			System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+			break;
+			case "8":
+			System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+			break;
+					}
+				}
+
+				System.out.print(ConsoleColors.RESET);
+				System.out.println();
+		}
+		break;
+
+		default:
+
+for (int j=520;j<540 ;j++ ) {
+		String[] separador= bandera[j].split(";"); 
+	for (int s=0;s<separador.length;s++ ) {
+		switch(separador[s]){
+			case "1":
+			System.out.print(ConsoleColors.RED_BACKGROUND+" ");
+			break;
+			case "2":
+			System.out.print(ConsoleColors.BLUE_BACKGROUND+" ");
+			break;
+			case "3":
+			System.out.print(ConsoleColors.WHITE_BACKGROUND+" ");
+			break;
+			case "4":
+			System.out.print(ConsoleColors.YELLOW_BACKGROUND+" ");
+			break;
+			case "5":
+			System.out.print(ConsoleColors.GREEN_BACKGROUND+" ");
+			break;
+			case "6":
+			System.out.print(ConsoleColors.PURPLE_BACKGROUND+" ");
+			break;
+			case "7":
+			System.out.print(ConsoleColors.CYAN_BACKGROUND+" ");
+			break;
+			case "8":
+			System.out.print(ConsoleColors.BLACK_BACKGROUND+" ");
+			break;
+		}
+}
+break;
+}
+
 }
 	public static void main(String[] args) {
 
+		int b;
+		b= ConsoleInput.getInt();
 
-
-		bandera(aleatorio(24));
+		bandera(b);
 
 
 
