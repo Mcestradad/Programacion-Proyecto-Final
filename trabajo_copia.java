@@ -310,7 +310,7 @@ return c;
 	
 
 public static void bandera(int a, int contador){
-String[] bandera= ConsoleFile.read("javas/recursos/info_banderas.csv");
+String[] bandera= ConsoleFile.read("info_banderas.csv");
 
 
 if (a==1) {
